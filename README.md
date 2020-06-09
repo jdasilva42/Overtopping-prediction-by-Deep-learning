@@ -54,5 +54,4 @@ RMSE TEST
 
 ### ANN prediction vs EUROTOP prediction
 ANN predictions have been done regarding breakwater with no berm. For compare the predictions, the overtopping discharges have been computed with the empirical formulations from EUROTOP 2018.
-
-
+<img src ="ANN_predictions_vs_EUROTOP/ANN_predictions vs EUROTOP_predictions.png">
